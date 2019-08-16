@@ -12,6 +12,8 @@ public class ABC
       ABC a1 = new ABC();
       ABC a2 = new ABC();
       ABC a3 = new ABC();
+      
+      
       System.out.println(noofobject);
 		
 		  
